@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    /* padding: 0; */
+}
+
+/* This is the Font  */
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.texturina-fontRandom {
+  font-family: "Texturina", serif;
+  font-optical-sizing: auto;
+  font-weight:700;
+  font-style: normal;
+}
+
+
+
+
+
+.container {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 5px 40px;
+    position: fixed;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: left;
+    padding: 20px;
+    color:rgb(253, 253, 253);
+    margin: 150px 50px;
+    font-family: "Texturina", serif;
+    font-size: 40px;
+}
+
+#project_intro {
+    background-image: url(../images/cat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    padding-top: 50px;
+    border-radius: 0px 0px 30px 30px;
+}
+
+
+/* This is all introduction */
+#introduction {
+    padding: 100px 100px 50px 100px;
+}
+#introduction p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#introduction h2 {
+    color: white;
+    padding: 5px;
+}
+
+#background_box1 {
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 0px 40px 40px 0px;
+}
+
+
+/* This is the Uses Section */
+
+#uses {
+    padding-top: 50px;
+}
+
+#background_box2 {
+    margin: 0;
+    width: 600px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 0px 40px 40px 0px;
+}
+
+#uses div h2 {
+    color: white;
+    padding: 5px;
+}
+
+#uses section {
+    margin: 10px 0px 0px 10px;
+    font-size: 18px;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* This is the Table_Preview Section */
+
+#table_preview {
+    padding-top: 50px;
+    
+}
+
+#background_box3 {
+    /* margin: 0; */
+    width: 600px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 0px 40px 40px 0px;
+}
+
+#background_box3 h2 {
+    color: white;
+    padding: 5px;
+}
+
+#table_container{
+    margin-top: 5px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+/* This is the Benefits section */
+
+#benefits {
+    padding-top: 50px;
+}
+
+#background_box4 {
+    width: 600px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 0px 40px 40px 0px;
+}
+
+#background_box4 h2 {
+    color: white;
+    padding: 5px;
+}
+
+#benefits article {
+    margin: 10px 0px 0px 10px;
+    font-size: 18px;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* This is the Preview section */
+#project_preview {
+    padding-top: 50px;
+}
+#background_box5 {
+    width: 600px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 0px 40px 40px 0px;
+}
+
+#background_box5 h2 {
+    color: white;
+    padding: 5px;
+}
+
+#video_container {
+    margin: 20px;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
